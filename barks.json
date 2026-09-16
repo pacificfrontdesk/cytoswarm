@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-09-16",
   "note": "Bark lines for Survivorlike. Served as a static file; the app falls back to its bundled copy if this is missing, stale or fails validation.",
   "disabled": false,
@@ -85,7 +85,8 @@
       "67 damage??",
       "skibidi over",
       "tung tung tung",
-      "brr brr"
+      "brr brr",
+      "feed test, ignore me"
     ],
     "boss": [
       "rematch, coward",
