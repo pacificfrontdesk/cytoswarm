@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated": "2026-09-16",
   "note": "Bark lines for Cytoswarm. Served as a static file; the app falls back to its bundled copy if this is missing, stale or fails validation.",
   "disabled": false,
@@ -81,6 +81,20 @@
       "I peaked in the tutorial",
       "be so fr",
       "my ancestors saw this",
+      "no thoughts, head empty",
+      "vibe check failed",
+      "it's the hp for me",
+      "should've touched grass",
+      "I was an NPC",
+      "the ick",
+      "I'm crashing out",
+      "ratio'd",
+      "not main character",
+      "we're so not back",
+      "let him cook, he did",
+      "understood nothing",
+      "this ain't it",
+      "and I oop—",
       "6-7",
       "67 damage??",
       "skibidi over",
@@ -134,7 +148,10 @@
       "no cap that's strong",
       "aura farming",
       "chat is this real",
-      "how could this day get better"
+      "how could this day get better",
+      "let me cook",
+      "main character energy",
+      "it's giving build"
     ],
     "bossDown": [
       "get bodied",
@@ -161,7 +178,10 @@
       "no glaze, just gone",
       "he was larping",
       "villain era",
-      "he peaked in the tutorial"
+      "he peaked in the tutorial",
+      "understood the assignment",
+      "vibe check passed",
+      "he crashed out"
     ],
     "lowHealth": [
       "not the vibes",
@@ -207,7 +227,10 @@
       "this is my roman empire",
       "6-7",
       "flow state",
-      "how could this day get better"
+      "how could this day get better",
+      "no thoughts, just bolts",
+      "they're crashing out",
+      "main character"
     ],
     "healed": [
       "we're so back",
@@ -253,7 +276,9 @@
       "max aura",
       "we ate and left no crumbs",
       "it's a clock",
-      "that's the whole day"
+      "that's the whole day",
+      "understood the assignment",
+      "it's giving win"
     ]
   }
 }
