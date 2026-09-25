@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated": "2026-09-16",
+  "version": 7,
+  "updated": "2026-09-25",
   "note": "Bark lines for Cytoswarm. Served as a static file; the app falls back to its bundled copy if this is missing, stale or fails validation.",
   "disabled": false,
   "enemy": {
@@ -99,7 +99,9 @@
       "67 damage??",
       "skibidi over",
       "tung tung tung",
-      "brr brr"
+      "brr brr",
+      "nah that's AI",
+      "kinda chic to explode"
     ],
     "boss": [
       "rematch, coward",
@@ -117,7 +119,9 @@
       "the swarm will remember",
       "avenge me, brood",
       "my minions failed me",
-      "nah, run it back"
+      "nah, run it back",
+      "that's AI",
+      "that win was AI"
     ]
   },
   "hero": {
@@ -201,7 +205,8 @@
       "nope nope nope",
       "breathing room please",
       "not yet",
-      "too close, too close"
+      "too close, too close",
+      "kinda chic to survive this"
     ],
     "streak": [
       "no crumbs",
@@ -247,7 +252,8 @@
       "we move",
       "aura restored",
       "not delulu, prepared",
-      "and we're normal again"
+      "and we're normal again",
+      "kinda chic to heal"
     ],
     "revived": [
       "nah I'm still here",
@@ -278,7 +284,8 @@
       "it's a clock",
       "that's the whole day",
       "understood the assignment",
-      "it's giving win"
+      "it's giving win",
+      "kinda chic to win"
     ]
   }
 }
